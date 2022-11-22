@@ -22,3 +22,5 @@ Site criado (apenas index page) na aula de treinamento para desenvolvimento resp
   </script>
   
   * possivelmente as outras páginas serão atulizadas em projetos futuros
+  
+  link direto:  https://ralf-17.github.io/LivrariaOnline/
